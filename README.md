@@ -1,4 +1,8 @@
 ## Unity3d Third Person Controller
 
 ![](showcase.gif)
-![](jump1.mp4)
+![](movement.gif)
+![](jumping.gif)      ![](jumping2.gif)
+![](climbing.gif)
+![](cam.gif)
+![](hide.gif)
